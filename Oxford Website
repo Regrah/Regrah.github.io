@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <title>OxfordSchools.org</title>
+  <head>
+    <div align = "middle">  
+    <img src = "Images/OCS-logo.png">
+    <h1> <i> <b> Welcome to Oxford Schools </b> </i></h1>
+    <hr color = "gold">
+    </div>
+    <a href =
+  </head>
+
+  <body bgcolor = "#000847" text = "gold">
+  <div align = "middle">
+  <a href = "https://oxfordschools.learning.powerschool.com/" style = "color:pink"> <h2> Haiku </h2> </a>
+  <a href = "https://oxfordschools.illuminatehc.com/login" style = "color:pink"> <h3>
+  Illuminate </h3> </a>
+  <a href = "https://oxford.powerschool.com/public/home.html" style = "color:pink"> <h4> PowerSchool </h4> </a>
+  </div>
+  <hr color = "gold">
+  <div align = "middle">
+
+  <!-- a paragraph about what I like most about oxford high schools-->
+  Something I like most about Oxford High School is the fact that there's such a variety of classes you can take. You can get classes all the way from programming to wind ensemble.<p>
+  Another one of my favorite things here at Oxford High School are the teachers, most of them are friendly and are good at teaching their subjects. <br>
+  </div>
+
+  <hr color = "gold">
+
+  <!--Make a table with an ordered and unordered list in it, the headers will be bolded-->
+  <table width = 100% border = 1px cellspacing = 0>
+    <th> <b> Favorite Classes </b> </th>
+    <th> <b> Friends </b> </th>
+    <tr>
+    <!--Ordered list-->
+    <td> <ol> <li> Web design </li>
+    <li> AP CSA </li> 
+    <li> Math </li> 
+    <li> Forensics </li>
+    <li> Physics </li>
+    </td> </ol>
+    <!--Unordered list-->
+    <td> <ul> <li> Amber </li>
+    <li> Chris </li>
+    <li> Camden </li>
+    <li> James </li>
+    <li> Ryan </li>
+    </td> </ul>
+    </tr>
+    </table>
+
+    <hr color = "gold">
+
+  <img src = "Images/Substitute Teacher onlyadbutton.jpg" width = 350 height = 200>
+  <hr color = "gold">
+  <marquee>
+    <img src = "Images/download.jpg" width = 350 height = 200>
+  </marquee>
+  <hr color = "gold">
+  <div align = "left">
+    <img src = "Images/schooooool.jpg" width = 350 height = 200>
+  </div>
+  <hr color = "gold">
+  <marquee>
+    <img src = "Images/elemsch.jpg" width = 350 height = 200>
+  </marquee>
+  <hr color = "gold">
+  <div align = "left">
+    <img src = "Images/wildcat.jpg" width = 350 height = 200>
+  </div>
+  <hr color = "gold">
+  <marquee>
+    <img src = "Images/robotics.jpg" width = 350 height = 200>
+  </marquee>
+  </body>
+</html>
